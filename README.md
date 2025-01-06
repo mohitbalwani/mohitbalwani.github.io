@@ -1,2 +1,2 @@
-# My Portfolio
-- Built using Reactjs, Storybook, Particle.js, Typed.js, Tilt.js, Scroll Reveal, Tawkto, Font Awesome, JSON, etc.
+# Portfolio
+- Used : Reactjs, Storybook, Particle.js, Typed.js, Tilt.js, Scroll Reveal, Tawkto, Font Awesome, JSON, etc.
